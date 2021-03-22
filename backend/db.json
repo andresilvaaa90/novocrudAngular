@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "Samsung S20+",
+      "price": 5000
+    },
+    {
+      "name": "Samsung A30",
+      "price": "1200",
+      "id": 4
+    }
+  ]
+}
